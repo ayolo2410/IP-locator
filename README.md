@@ -1,2 +1,1 @@
-# IP-locator
-The project is made using JAVA SDK 17 corretto. It parses .csv files to find the continent and country corresponding to a particular IPv4 address. The .csv files used are downloaded from MaxMind.com, they have mapped network addresses to their location
+The project, developed using Java SDK 17 Corretto, aims to determine the continent and country associated with a specific IPv4 address by parsing .csv files obtained from MaxMind.com. These files contain a mapping of network addresses to their respective locations. The program employs the binary search algorithm to efficiently find the country and continent that have registered the given IP address.
